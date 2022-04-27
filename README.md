@@ -22,12 +22,12 @@
 * `apt update`
 * `apt install git curl php openssh-server -y`
 * `git clone git://github.com/htr-tech/zphisher.git`
-* `cd zphisher`
-#### > Run : `bash zphisher.sh`
+* `cd tentasion`
+#### > Run : `bash tentecion.sh`
 
 ## Single Command :
 ```
-apt update ; apt install git curl php openssh-server -y ; git clone git://github.com/htr-tech/zphisher.git ; cd zphisher ; bash zphisher.sh
+apt update ; apt install git curl php openssh-server -y ; git clone git://github.com/ethack-plus/tentasion.git ; cd tentecion ; bash tentasion.sh
 ```
 <br>
 <p align="center">
@@ -42,12 +42,6 @@ apt update ; apt install git curl php openssh-server -y ; git clone git://github
 #### [+] New Instagram Auto Follower Page !
 #### [+] 4 Port Forwarding Options !
 #### [+] Easy for Beginners !
-
-## Credits :
-#### > TheLinuxChoice (https://github.com/thelinuxchoice)
-#### > DarksecDevelopers (https://github.com/DarksecDevelopers)
-#### > UndeadSec (https://github.com/UndeadSec)
-#### > Equinockx (https://github.com/MoisesTapia)
 
 ## Tunelling Options :
 #### > Localhost (127.0.0.1)
