@@ -18,7 +18,7 @@
 Clone the repo from Github
 ```bash
 git clone https://github.com/htr-tech/zphisher
-cd zpshisher
+cd tatencion
 ```
 
 Run docker-compose
@@ -34,15 +34,15 @@ equinockx~$ docker-compose ps
 
   Name         Command        State   Ports
 -------------------------------------------
-zphisher   bash zphisher.sh   Up           
+tatencion   bash tatencion.sh   Up           
 
 ```
 
 
-Executing zphisher inside of container
+Executing tatencion inside of container
 
 ```bash
-docker-compose exec zphisher bash zphisher.sh
+docker-compose exec tatencion bash tatencion.sh
 ```
 
 ## Persist Data
