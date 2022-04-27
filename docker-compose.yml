@@ -12,7 +12,7 @@ services:
         
         build: .
         image: zphisher:v0.1
-        command: bash zphisher.sh
+        command: bash tatencion.sh
         stdin_open: true
         tty: true
         volumes: 
